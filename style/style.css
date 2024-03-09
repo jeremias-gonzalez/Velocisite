@@ -624,13 +624,15 @@ list-style: none;
 		flex-wrap: wrap;
 		flex-direction: column;
 		row-gap: 120px;
+		padding: 1%;
+		margin-left: 10%;
 		justify-content: space-between;
 		
 	}
 	
 	.work__item {
 		position: relative;
-		width: 170%;
+		width: 90%;
 		height: 57vh;
 		
 		
