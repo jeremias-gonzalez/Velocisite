@@ -377,14 +377,12 @@ list-style: none;
 	color: var(--pr-color);
 	
 }
-.img-foot{
-	margin-bottom: 900px;
-}
+
 .h2-copy{
 	color: white;
 }
 .h2-contain{
-margin-top: 500px;
+margin-top: 200px;
 }
 .redes-sociales{
 	margin: 40px;
@@ -399,6 +397,11 @@ margin-top: 500px;
 	width: 25px;
 	margin-bottom: 5px;
 	margin-left: 10px;
+}
+
+
+.footer-main{
+	margin-top: 500px;
 }
 
 
@@ -733,27 +736,32 @@ margin-top: 500px;
 	.footer__div span {
 		display: inline-block;
 	}
-	.img-foot{
-		margin-bottom: 900px;
+	.logo-foot{
+		margin-top: 60%;
 	}
 	.h2-copy{
 		color: white;
 	}
 	.h2-contain{
-	margin-top: 500px;
+	
+	margin-left: 30px;
 	}
 	.redes-sociales{
-		margin: 40px;
+		margin: 5%;
+		margin-left: 20%;
 		display: flex;
 	}
 	.seguinos{
 		font-size: 1rem;
 		color: white;
-		margin: 4px;
+		margin: .5%;
 	}
 	.img-redes{
-		width: 25px;
+		width: 45%;
 		margin-bottom: 5px;
-		margin-left: 10px;
+		margin-left: 50%;
+	}
+	.footer-main{
+		margin-top: 30%;
 	}
   }
